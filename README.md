@@ -4,3 +4,4 @@
 - Team members:
   - Karl How
   - Tay Choo Chuan
+  - Liew Jing Seng
